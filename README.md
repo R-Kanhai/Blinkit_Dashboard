@@ -62,7 +62,7 @@ A secondary dynamic KPI card sits alongside the donut/slicer panel and updates b
 
 1. Open `blinkit_project.pbix` in Power BI Desktop, **or**
 2. View the interactive version via the Publish-to-Web link above (no login required)
-3. Use the **Outlet Location, Outlet Size, and Item Type slicers** to filter the whole page
+3. Use the **Outlet Location, Outlet Size, and Item Type slicers** to filter the whole page.
 4. Use the **Metric slicer** to switch what the dynamic card/chart displays
 5. Click any donut segment, bar, or funnel stage to cross-filter the rest of the report
 6. Use the reset button to clear all filters back to the default view
